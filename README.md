@@ -1,6 +1,6 @@
 # Group Pay
 
-Split the resturant bill with your friends. Written in React and Nodejs.
+Split the restaurant bill with your friends. Written in React and Nodejs.
 
 ## Available Scripts
 
